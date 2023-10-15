@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=WorldManager
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ WorldManager\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=WorldManager()
+comment10.params=
+comment10.target=void\ setPvPWorld()
+comment11.params=
+comment11.target=void\ setStoreWorld()
+comment2.params=world
+comment2.target=void\ setBlackBackground(greenfoot.World)
+comment3.params=world
+comment3.target=void\ setBackground(greenfoot.World)
+comment4.params=
+comment4.target=void\ setAIWorld()
+comment5.params=
+comment5.target=void\ setGameModeWorld()
+comment6.params=lastWorld
+comment6.target=void\ setGameOverWorld(greenfoot.World)
+comment7.params=
+comment7.target=void\ setLastActiveGame()
+comment8.params=
+comment8.target=void\ setIntroWorld()
+comment9.params=
+comment9.target=void\ setPracticeWorld()
+numComments=12

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ItemName
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Price\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=listItem\ x\ y
+comment2.target=ItemName(ListItem,\ int,\ int)
+numComments=3

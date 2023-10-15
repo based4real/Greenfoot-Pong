@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PracticeWorld
+comment0.text=\r\n\ The\ Ping\ World\ is\ where\ Balls\ and\ Paddles\ meet\ to\ play\ pong.\r\n\ \r\n\ @author\ The\ teachers\ \r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=PracticeWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PingWorld.\r\n
+comment2.params=
+comment2.target=void\ init()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=int\ getCenterX()
+numComments=5

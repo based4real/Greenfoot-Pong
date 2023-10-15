@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PvPWorld
+comment1.params=
+comment1.target=PvPWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CopyOfPingWorld.\r\n
+comment2.params=
+comment2.target=void\ init()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

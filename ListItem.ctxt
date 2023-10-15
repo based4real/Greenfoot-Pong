@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ListItem
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ listItems\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ listItems\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment10.params=
+comment10.target=java.lang.String\ getPicture()
+comment11.params=sold
+comment11.target=void\ setSold(boolean)
+comment2.params=id\ s\ name\ price\ png\ isSold\ isEquipped\ type
+comment2.target=ListItem(int,\ StoreSystem,\ java.lang.String,\ int,\ java.lang.String,\ boolean,\ boolean,\ int)
+comment3.params=
+comment3.target=boolean\ isSold()
+comment4.params=
+comment4.target=boolean\ isEquipped()
+comment5.params=isEquipped
+comment5.target=void\ setEquipped(boolean)
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=
+comment7.target=int\ getId()
+comment8.params=
+comment8.target=int\ getPrice()
+comment9.params=
+comment9.target=int\ getType()
+numComments=12
