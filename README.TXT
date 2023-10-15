@@ -1,12 +1,8 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+# Greenfoot Pong
+First project on the 1. semester of Computer Science. We had 1 week to finish this project, I worked together with 3 others in making this project. We used Greenfoot ( https://greenfoot.org/ ) to make this project.
+When we recieved the files we had a small game, with very simple game knowledge which means: No menu, no form of velocity for the paddle. Only a paddle that would randomly spawn, and a bit buggy game.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+# Project
+We started this project a monday, and finished friday. That includes writing the code for the Game, making a "report" of the project + an UML diagram of the project.
+
+
